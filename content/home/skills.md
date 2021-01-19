@@ -16,18 +16,38 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+
+- description: Tableau, Power BI, ggplot
+  icon: database
+  icon_pack: fas
+  name: Data Analytics
+- description: Tableau, Power BI, ggplot
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Visualization
+
+- description: R, Python, SQL, HTML, CSS
+  icon: code
+  icon_pack: fas
+  name: Programming
+
+- description: Creator-<br> @indiasbesthomes<br> @notodolist<br><br> Runner- <br>@joos.food 
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Instagram Marketing
+
+
+- description: R Studio, Jupyter 
+  icon: tools
+  icon_pack: fas
+  name: Tools
+
+- description: Common Machine Learning Models
+  icon: atom
+  icon_pack: fas
+  name: Machine Learning
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

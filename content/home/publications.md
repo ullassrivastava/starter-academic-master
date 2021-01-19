@@ -9,9 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: ''
-
+title: Publications
+subtitle: '2 Publications: 1 book, 1 article'
+active: false
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: 'a'
+    category: 'aa'
+    publication_type: 'aaa'
+    author: 'aaa'
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 3
 ---
 
 {{% callout note %}}
