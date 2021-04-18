@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Analyst Intern
+    company: Element 451
+    company_url: ''
+    location: New York, New York
+    date_start: '2021-03-18'
+    date_end: '2021-05-18'
+    description: |2-
+        * Pipelined the process including data engineering, auto tuning, training and validation  
+        * Used NLTK to extract subject’s meanings and Spacy library to perform Name Entity Recognition  
+        * Built hybrid neural network with LSTM on Keras and autotuned via Keras-tuner  
+        * Achieved 80% accuracy on predicting the email open rate with given email’s subject  
+
   - title: Digital Marketer
     company: JoosFood
     company_url: ''

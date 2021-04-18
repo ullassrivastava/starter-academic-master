@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Youtube Trending Video Content Strategy (R, SQL, Tableau)"
-summary: "Analysed the trending videos to provide a content strategy for an upcoming, ambitious Youtuber."
-authors: []
-tags: [Data Analytics]
+title: "NLP Email Subject Analysis"
+summary: "Evaluated the effectivness of client's marketing email subject"
+authors: [DiweiZhu]
+tags: [Machine Learning, NLP, Keras, Business Analysis]
 categories: []
-date: 2021-02-18T21:55:08-05:00
+date: 2021-04-15T15:46:01-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/project/youtube/Youtube.pdf"
-
+external_link: "/project/nlp_email/Presentation.pdf"
+#/project/youtube/Youtube.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "NLP Email Subject Analysis"
   focal_point: "smart"
   preview_only: false
 
